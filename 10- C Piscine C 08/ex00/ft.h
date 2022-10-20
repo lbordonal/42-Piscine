@@ -6,11 +6,12 @@
 /*   By: lbordona <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/12 09:50:38 by lbordona          #+#    #+#             */
-/*   Updated: 2022/10/12 11:45:24 by lbordona         ###   ########.fr       */
+/*   Updated: 2022/10/20 19:30:41 by lbordona         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_H
+
 # define FT_H
 
 void	ft_putchar(char c);
