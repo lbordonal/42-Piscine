@@ -28,3 +28,11 @@ void	ft_putstr(char *str)
 		i++;
 	}
 }
+
+/* int    main(void)
+{
+    char    *s;
+    s = ", testando, 1 2 3…";
+    ft_putstr(s);
+    return (0);
+} */

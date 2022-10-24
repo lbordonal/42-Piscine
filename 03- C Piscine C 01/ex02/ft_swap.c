@@ -18,3 +18,22 @@ void	ft_swap(int *a, int *b)
 	*a = *b;
 	*b = c;
 }
+
+/* #include <stdio.h>
+
+int    main(void)
+{
+    int    a;
+    int    b;
+    a = 2;
+    b = 7;
+	printf("%s", "a = ");
+    printf("%d\n", a);
+	printf("%s", "a = ");
+    printf("%d\n", b);
+    ft_swap(&a , &b);
+	printf("%s", "new a (old b) = ");
+	printf("%d\n", a);
+    printf("%s", "new b (old a) = ");
+	printf("%d\n", b);
+} */

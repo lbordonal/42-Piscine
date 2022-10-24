@@ -20,3 +20,23 @@ void	ft_ultimate_div_mod(int *a, int *b)
 	*a = x;
 	*b = y;
 }
+
+/* #include <stdio.h>
+
+int main(void)
+{
+    int    a;
+    int    b;
+
+    a = 10;
+    b = 3;
+	printf("%s", "a = ");
+    printf("%d\n", a);
+	printf("%s", "b = ");
+    printf("%d\n", b);
+    ft_ultimate_div_mod(&a , &b);
+	printf("%s", "a (div) = ");	
+	printf("%d\n", a);
+	printf("%s", "b (mod) = ");	
+	printf("%d\n", b);
+} */

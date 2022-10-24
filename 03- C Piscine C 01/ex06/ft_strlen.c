@@ -21,3 +21,15 @@ int	ft_strlen(char *str)
 	}
 	return (len);
 }
+
+/* #include <stdio.h>
+
+ int    main(void)
+{
+    char    *s;
+    int        total;
+    s = "Lucas";
+    total = ft_strlen(s);
+    printf("%d", total);
+    return (0);
+} */

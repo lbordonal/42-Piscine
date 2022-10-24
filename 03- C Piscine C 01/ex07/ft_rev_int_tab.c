@@ -24,3 +24,19 @@ void	ft_rev_int_tab(int *tab, int size)
 		i++;
 	}
 }
+
+/* #include <stdio.h>
+
+int	main(void)
+{
+    int tab[5] = {0, 1, 2, 3, 4};
+    int size = 5;
+
+	printf("%s", "Original = ");
+    printf("%d, %d, %d, %d, %d", tab[0], tab[1], tab[2], tab[3], tab[4]);
+	printf("\n");
+    ft_rev_int_tab(tab, size);
+	printf("%s", "REV = ");
+    printf("%d, %d, %d, %d, %d", tab[0], tab[1], tab[2], tab[3], tab[4]);
+    return (0);
+} */
