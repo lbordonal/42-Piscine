@@ -23,3 +23,9 @@ void	ft_print_numbers(void)
 		i++;
 	}
 }
+
+/* int    main(void)
+{
+    ft_print_numbers();
+return (0);
+} */

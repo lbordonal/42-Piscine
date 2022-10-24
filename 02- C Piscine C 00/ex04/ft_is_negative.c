@@ -19,3 +19,11 @@ void	ft_is_negative(int n)
 	else
 		write (1, "P", 1);
 }
+
+/* int    main(void)
+{
+    ft_is_negative(-373);
+    ft_is_negative(0);
+    ft_is_negative(155);
+return (0);
+} */

@@ -41,3 +41,14 @@ void	ft_putnbr(int nb)
 			ft_putchar(nb + '0');
 	}
 }
+
+/* int    main(void)
+{
+    ft_putnbr(-2147483648);
+    ft_putchar(‘\n’);
+    ft_putnbr(156);
+ft_putchar(‘\n’);
+    ft_putnbr(0);
+    ft_putchar(‘\n’);
+return (0);
+} */
