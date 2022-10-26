@@ -30,20 +30,26 @@ char	*ft_strupcase(char *str)
 
 int     main(void)
 {
-        char    str[] = "Lucas*(*&$@#";
-        char    str1[] = "";
-        char    str2[] = "lucas";
+	char    str[] = "Lucas*(*&$@#";
+	char    str1[] = "";
+	char    str2[] = "lucas";
 
-        printf("%s", str);
-        printf("\n");
-        printf("%s", str1);
-        printf("\n");
-        printf("%s", str2);
-        printf("\n");
-        printf("\n");
-        printf("%s", ft_strupcase(str));
-        printf("\n");
-        printf("%s", ft_strupcase(str1));
-        printf("\n");
-        printf("%s", ft_strupcase(str2));
+	printf("%s", "A = ");
+	printf("%s", str);
+	printf("\n");
+	printf("%s", "B = ");
+	printf("%s", str1);
+	printf("\n");
+	printf("%s", "C = ");
+	printf("%s", str2);
+	printf("\n");
+	printf("\n");
+	printf("%s", "A strupcase = ");
+	printf("%s", ft_strupcase(str));
+	printf("\n");
+	printf("%s", "B strupcase = ");
+	printf("%s", ft_strupcase(str1));
+	printf("\n");
+	printf("%s", "C strupcase = ");
+	printf("%s", ft_strupcase(str2));
 } */

@@ -42,16 +42,22 @@ int     main(void)
         unsigned int    size;
 
         size = 3;
+		printf("%s", "src = ");
         printf("%s",src);
         printf("\n");
+		printf("%s", "dest = ");
         printf("%s",dest);
         printf("\n");
+		printf("%s", "size = ");
         printf("%d",size);
         printf("\n");
         printf("\n");
+		printf("%s", "ft_strlcpy = ");		
         printf("%d",ft_strlcpy(dest, src, size));
         printf("\n");
+		printf("%s", "src = ");
         printf("%s",src);
         printf("\n");
+		printf("%s", "new dest = ");
         printf("%s",dest);
 } */

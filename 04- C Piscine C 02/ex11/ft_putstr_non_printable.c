@@ -67,7 +67,12 @@ int     main(void)
 {
         char    str[] = "Oi\nvoce esta bem?";
 
+        printf("%s","str = ");
+		printf("\n");
         printf("%s",str);
         printf("\n");
+		printf("\n");
+		printf("%s","ft_putstr_non_printable = ");
+		printf("\n");
         ft_putstr_non_printable(str);
 } */

@@ -15,7 +15,7 @@ int	ft_str_is_printable(char *str)
 	int	i;
 
 	i = 0;
-	while (str[i] >= 32 && str[i] <= 127)
+	while (str[i] >= 32 && str[i] < 127)
 	{
 		i++;
 	}
@@ -37,16 +37,22 @@ int     main(void)
         char    str1[] = "";
         char    str2[] = "\n";
 
-        printf("%s", str);
-        printf("\n");
-        printf("%s", str1);
-        printf("\n");
-        printf("%s", str2);
-        printf("\n");
-        printf("\n");
-        printf("%d", ft_str_is_printable(str));
-        printf("\n");
-        printf("%d", ft_str_is_printable(str1));
-        printf("\n");
-        printf("%d", ft_str_is_printable(str2));
+ 	printf("%s", "A = ");
+	printf("%s", str);
+	printf("\n");
+	printf("%s", "B = ");
+	printf("%s", str1);
+	printf("\n");
+	printf("%s", "C = ");
+	printf("%s", str2);
+	printf("\n");
+	printf("\n");
+	printf("%s", "A is printable (0 = no / 1 = yes) = ");
+	printf("%d", ft_str_is_printable(str));
+	printf("\n");
+	printf("%s", "B is printable (0 = no / 1 = yes) = ");
+	printf("%d", ft_str_is_printable(str1));
+	printf("\n");
+	printf("%s", "C is printable (0 = no / 1 = yes) = ");
+	printf("%d", ft_str_is_printable(str2));
 } */

@@ -37,16 +37,22 @@ int     main(void)
 	char    str1[] = "";
 	char    str2[] = "lucas";
 
+    printf("%s", "A = ");
 	printf("%s", str);
 	printf("\n");
+    printf("%s", "B = ");	
 	printf("%s", str1);
 	printf("\n");
+	printf("%s", "C = ");
 	printf("%s", str2);
 	printf("\n");
 	printf("\n");
+	printf("%s", "A is lowercase (0 = no / 1 = yes) = ");
 	printf("%d", ft_str_is_lowercase(str));
 	printf("\n");
+	printf("%s", "B is lowercase (0 = no / 1 = yes) = ");
 	printf("%d", ft_str_is_lowercase(str1));
 	printf("\n");
+	printf("%s", "C is lowercase (0 = no / 1 = yes) = ");
 	printf("%d", ft_str_is_lowercase(str2));
 } */

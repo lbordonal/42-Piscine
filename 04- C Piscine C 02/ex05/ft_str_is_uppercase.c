@@ -31,22 +31,28 @@ int	ft_str_is_uppercase(char *str)
 
 /* #include <stdio.h>
 
-int     main(void)
+int	main(void)
 {
-	char    str[] = "Lucas";
-	char    str1[] = "";
-	char    str2[] = "lucas";
+	char	str[] = "LUCAS";
+	char	str1[] = "";
+	char	str2[] = "lucas";
 
+	printf("%s", "A = ");
 	printf("%s", str);
 	printf("\n");
+	printf("%s", "B = ");
 	printf("%s", str1);
 	printf("\n");
+	printf("%s", "C = ");
 	printf("%s", str2);
 	printf("\n");
 	printf("\n");
+	printf("%s", "A is uppercase (0 = no / 1 = yes) = ");
 	printf("%d", ft_str_is_uppercase(str));
 	printf("\n");
+	printf("%s", "B is uppercase (0 = no / 1 = yes) = ");
 	printf("%d", ft_str_is_uppercase(str1));
 	printf("\n");
+	printf("%s", "C is uppercase (0 = no / 1 = yes) = ");
 	printf("%d", ft_str_is_uppercase(str2));
 } */
