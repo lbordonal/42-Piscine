@@ -27,3 +27,20 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    src[] = "Lucas";
+        char    dest[] = "Matheus";
+
+        printf("%s", src);
+        printf("\n");
+        printf("%s", dest);
+        printf("\n");
+        printf("\n");
+        ft_strncpy(dest, src, 9);
+        printf("\n");
+        printf("%s", dest);
+} */

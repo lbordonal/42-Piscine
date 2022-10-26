@@ -28,3 +28,25 @@ int	ft_str_is_printable(char *str)
 		return (0);
 	}
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    str[] = "Lucas*(*&$@#";
+        char    str1[] = "";
+        char    str2[] = "\n";
+
+        printf("%s", str);
+        printf("\n");
+        printf("%s", str1);
+        printf("\n");
+        printf("%s", str2);
+        printf("\n");
+        printf("\n");
+        printf("%d", ft_str_is_printable(str));
+        printf("\n");
+        printf("%d", ft_str_is_printable(str1));
+        printf("\n");
+        printf("%d", ft_str_is_printable(str2));
+} */

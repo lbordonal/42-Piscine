@@ -38,3 +38,14 @@ char	*ft_strcapitalize(char *str)
 	}
 	return (str);
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    str[] = "oi, tuDo bem? 42palavras quarenta-e-duas; cinquenta+e+um";
+        
+		printf("%s", str);
+        printf("\n");
+        printf("%s", ft_strcapitalize(str));
+} */

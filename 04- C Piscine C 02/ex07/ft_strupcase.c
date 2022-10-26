@@ -25,3 +25,25 @@ char	*ft_strupcase(char *str)
 	}
 	return (str);
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    str[] = "Lucas*(*&$@#";
+        char    str1[] = "";
+        char    str2[] = "lucas";
+
+        printf("%s", str);
+        printf("\n");
+        printf("%s", str1);
+        printf("\n");
+        printf("%s", str2);
+        printf("\n");
+        printf("\n");
+        printf("%s", ft_strupcase(str));
+        printf("\n");
+        printf("%s", ft_strupcase(str1));
+        printf("\n");
+        printf("%s", ft_strupcase(str2));
+} */

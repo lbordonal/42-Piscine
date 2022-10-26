@@ -28,3 +28,25 @@ int	ft_str_is_numeric(char *str)
 		return (0);
 	}
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    str[] = "Lucas";
+        char    str1[] = "";
+        char    str2[] = "123456";
+
+        printf("%s", str);
+        printf("\n");
+        printf("%s", str1);
+        printf("\n");
+        printf("%s", str2);
+        printf("\n");
+        printf("\n");
+        printf("%d", ft_str_is_numeric(str));
+        printf("\n");
+        printf("%d", ft_str_is_numeric(str1));
+        printf("\n");
+        printf("%d", ft_str_is_numeric(str2));
+} */

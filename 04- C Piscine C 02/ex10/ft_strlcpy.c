@@ -32,3 +32,26 @@ unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 	}
 	return (j);
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    src[] = "Hello";
+        char    dest[] = "World";
+        unsigned int    size;
+
+        size = 3;
+        printf("%s",src);
+        printf("\n");
+        printf("%s",dest);
+        printf("\n");
+        printf("%d",size);
+        printf("\n");
+        printf("\n");
+        printf("%d",ft_strlcpy(dest, src, size));
+        printf("\n");
+        printf("%s",src);
+        printf("\n");
+        printf("%s",dest);
+} */

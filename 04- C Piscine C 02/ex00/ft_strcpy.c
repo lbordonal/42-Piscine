@@ -23,3 +23,24 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[i] = '\0';
 	return (dest);
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    src[] = "Lucas";
+        char    dest[] = "";
+
+		printf("%s", "source = ");
+        printf("%s",src);
+        printf("\n");
+		printf("%s", "dest = ");
+        printf("%s",dest);
+        printf("\n");
+        printf("\n");
+        ft_strcpy(dest, src);
+        printf("\n");
+		printf("%s", "new dest = ");
+        printf("%s",dest);
+
+} */

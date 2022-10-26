@@ -25,3 +25,25 @@ char	*ft_strlowcase(char *str)
 	}
 	return (str);
 }
+
+/* #include <stdio.h>
+
+int     main(void)
+{
+        char    str[] = "Lucas*(*&$@#";
+        char    str1[] = "";
+        char    str2[] = "LUCAS";
+        
+		printf("%s", str);
+        printf("\n");
+        printf("%s", str1);
+        printf("\n");
+        printf("%s", str2);
+        printf("\n");
+        printf("\n");
+        printf("%s", ft_strlowcase(str));
+        printf("\n");
+        printf("%s", ft_strlowcase(str1));
+        printf("\n");
+        printf("%s", ft_strlowcase(str2));
+} */
