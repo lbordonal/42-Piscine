@@ -7,6 +7,13 @@
 This repository contains coding developed at 42 Porto Piscine, from 19/sep/2022 to 13/oct/2022.
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/github/languages/code-size/lbordonal/42-Piscine" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/lbordonal/42-Piscine" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lbordonal/42-Piscine" />
+	<img src="https://img.shields.io/github/last-commit/lbordonal/42-Piscine" />
+</p>
+
 ## :closed_book: Subjects
 [**Shell 00**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/00-%20Shell%2000%20-%20pt.subject.pdf)<br />
 [**Shell 01**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/01-%20Shell%2001%20-%20pt.subject.pdf)<br /><br />
