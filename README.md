@@ -33,6 +33,7 @@ This repository contains coding developed at 42 Porto Piscine, from 19/sep/2022 
 [**Shell 00**](https://github.com/lbordonal/42-Piscine/tree/main/00-%20C%20Piscine%20Shell%2000) - 100 / 100   :heavy_check_mark:<br />
 [**Shell 01**](https://github.com/lbordonal/42-Piscine/tree/main/01-%20C%20Piscine%20Shell%2001) - 70 / 100   :heavy_check_mark:<br /><br />
 [**C 00**](https://github.com/lbordonal/42-Piscine/tree/main/02-%20C%20Piscine%20C%2000) - 73 / 100   :heavy_check_mark:<br />
+`ft_putchar` `ft_print_alphabet``ft_print_reverse_alphabet`
 [**C 01**](https://github.com/lbordonal/42-Piscine/tree/main/03-%20C%20Piscine%20C%2001) - 100 / 100   :heavy_check_mark:<br />
 [**C 02**](https://github.com/lbordonal/42-Piscine/tree/main/04-%20C%20Piscine%20C%2002) - 85 / 100   :heavy_check_mark:<br />
 [**C 03**](https://github.com/lbordonal/42-Piscine/tree/main/05-%20C%20Piscine%20C%2003) - 100 / 100   :heavy_check_mark:<br />
