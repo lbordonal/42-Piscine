@@ -33,14 +33,32 @@ This repository contains coding developed at 42 Porto Piscine, from 19/sep/2022 
 [**Shell 00**](https://github.com/lbordonal/42-Piscine/tree/main/00-%20C%20Piscine%20Shell%2000) - 100 / 100   :heavy_check_mark:<br />
 [**Shell 01**](https://github.com/lbordonal/42-Piscine/tree/main/01-%20C%20Piscine%20Shell%2001) - 70 / 100   :heavy_check_mark:<br /><br />
 [**C 00**](https://github.com/lbordonal/42-Piscine/tree/main/02-%20C%20Piscine%20C%2000) - 73 / 100   :heavy_check_mark:<br />
-`ft_putchar` `ft_print_alphabet``ft_print_reverse_alphabet`
+`ft_putchar` `ft_print_alphabet` `ft_print_reverse_alphabet` `ft_print_numbers` `ft_is_negative` `ft_print_comb` `ft_print_comb2` `ft_putnbr` `ft_print_combn` <br />
+
+
 [**C 01**](https://github.com/lbordonal/42-Piscine/tree/main/03-%20C%20Piscine%20C%2001) - 100 / 100   :heavy_check_mark:<br />
+`ft_ft` `ft_ultimate_ft` `ft_swap` `ft_div_mod` `ft_ultimate_div_mod` `ft_putstr` `ft_strlen` `ft_rev_int_tab` `ft_sort_int_tab` <br />
+
 [**C 02**](https://github.com/lbordonal/42-Piscine/tree/main/04-%20C%20Piscine%20C%2002) - 85 / 100   :heavy_check_mark:<br />
+`ft_strcpy` `ft_strncpy` `ft_str_is_alpha` `ft_str_is_numeric` `ft_str_is_lowercase` `ft_str_is_uppercase` `ft_str_is_printable` `ft_strupcase` `ft_strlowcase` `ft_strcapitalize` `ft_strlcpy` `ft_putstr_non_printable` `ft_print_memory` <br />
+
 [**C 03**](https://github.com/lbordonal/42-Piscine/tree/main/05-%20C%20Piscine%20C%2003) - 100 / 100   :heavy_check_mark:<br />
+`ft_strcmp` `ft_strncmp` `ft_strcat` `ft_strncat` `ft_strstr` `ft_strlcat` <br />
+
 [**C 04**](https://github.com/lbordonal/42-Piscine/tree/main/06-%20C%20Piscine%20C%2004) - 70 / 100   :heavy_check_mark:<br />
+`ft_strlen` `ft_putstr` `ft_putnbr` `ft_atoi` `ft_putnbr_base` `ft_atoi_base` <br />
+
 [**C 05**](https://github.com/lbordonal/42-Piscine/tree/main/07-%20C%20Piscine%20C%2005) - 80 / 100   :heavy_check_mark:<br />
+`ft_iterative_factorial` `ft_recursive_factorial` `ft_iterative_power` `ft_recursive_power` `ft_fibonacci` `ft_sqrt` `ft_is_prime` `ft_find_next_prime` `As dez damas` <br />
+
 [**C 06**](https://github.com/lbordonal/42-Piscine/tree/main/08-%20C%20Piscine%20C%2006) - 100 / 100   :heavy_check_mark:<br />
+`ft_print_program_name` `ft_print_params` `ft_rev_params` `ft_sort_params` <br />
+
 [**C 07**](https://github.com/lbordonal/42-Piscine/tree/main/09-%20C%20Piscine%20C%2007) - 60 / 100   :heavy_check_mark:<br />
+`ft_strdup` `ft_range` `ft_ultimate_range` `ft_strjoin` `ft_convert_base` `ft_split` <br />
+
 [**C 08**](https://github.com/lbordonal/42-Piscine/tree/main/10-%20C%20Piscine%20C%2008) - :x:<br /><br />
+`ft.h` `ft_boolean.h` `ft_abs.h` `ft_point.h` `ft_strs_to_tab` `ft_show_tab` <br />
+
 [**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) - 116 / 100   :heavy_check_mark:<br />
 <br /><br />
