@@ -57,7 +57,7 @@ This repository contains coding developed at 42 Porto Piscine, from 19/09/2022 t
 [**C 07**](https://github.com/lbordonal/42-Piscine/tree/main/09-%20C%20Piscine%20C%2007) - 60 / 100   :heavy_check_mark:<br />
 `ft_strdup` `ft_range` `ft_ultimate_range` `ft_strjoin` `ft_convert_base` `ft_split` <br />
 
-[**C 08**](https://github.com/lbordonal/42-Piscine/tree/main/10-%20C%20Piscine%20C%2008) - :x:<br />
+[**C 08**](https://github.com/lbordonal/42-Piscine/tree/main/10-%20C%20Piscine%20C%2008) - Not submitted :x:<br />
 `ft.h` `ft_boolean.h` `ft_abs.h` `ft_point.h` `ft_strs_to_tab` `ft_show_tab` <br /><br />
 
 [**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) - 116 / 100   :heavy_check_mark:<br />
