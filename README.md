@@ -30,9 +30,12 @@ This repository contains coding developed at 42 Porto Piscine, from 19/09/2022 t
 <br /><br />
 
 ## :memo: Exercises
-[**Shell 00**](https://github.com/lbordonal/42-Piscine/tree/main/00-%20C%20Piscine%20Shell%2000) - 100 / 100   :heavy_check_mark:<br />
-[**Shell 01**](https://github.com/lbordonal/42-Piscine/tree/main/01-%20C%20Piscine%20Shell%2001) - 70 / 100   :heavy_check_mark:<br /><br />
-[**C 00**](https://github.com/lbordonal/42-Piscine/tree/main/02-%20C%20Piscine%20C%2000) - 73 / 100   :heavy_check_mark:<br />
+[**Shell 00**](https://github.com/lbordonal/42-Piscine/tree/main/00-%20C%20Piscine%20Shell%2000) <br />
+<img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> <br />
+[**Shell 01**](https://github.com/lbordonal/42-Piscine/tree/main/01-%20C%20Piscine%20Shell%2001) <br />
+<img src="https://img.shields.io/badge/score-70%20%2F%20100-success" /> <br /><br />
+[**C 00**](https://github.com/lbordonal/42-Piscine/tree/main/02-%20C%20Piscine%20C%2000)  <br />
+<img src="https://img.shields.io/badge/score-73%20%2F%20100-success" /> <br />
 `ft_putchar` `ft_print_alphabet` `ft_print_reverse_alphabet` `ft_print_numbers` `ft_is_negative` `ft_print_comb` `ft_print_comb2` `ft_putnbr` `ft_print_combn` <br />
 
 
@@ -40,26 +43,34 @@ This repository contains coding developed at 42 Porto Piscine, from 19/09/2022 t
 <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> <br />
 `ft_ft` `ft_ultimate_ft` `ft_swap` `ft_div_mod` `ft_ultimate_div_mod` `ft_putstr` `ft_strlen` `ft_rev_int_tab` `ft_sort_int_tab` <br />
 
-[**C 02**](https://github.com/lbordonal/42-Piscine/tree/main/04-%20C%20Piscine%20C%2002) - 85 / 100   :heavy_check_mark:<br />
+[**C 02**](https://github.com/lbordonal/42-Piscine/tree/main/04-%20C%20Piscine%20C%2002)  <br />
+<img src="https://img.shields.io/badge/score-85%20%2F%20100-success" /> <br />
 `ft_strcpy` `ft_strncpy` `ft_str_is_alpha` `ft_str_is_numeric` `ft_str_is_lowercase` `ft_str_is_uppercase` `ft_str_is_printable` `ft_strupcase` `ft_strlowcase` `ft_strcapitalize` `ft_strlcpy` `ft_putstr_non_printable` `ft_print_memory` <br />
 
-[**C 03**](https://github.com/lbordonal/42-Piscine/tree/main/05-%20C%20Piscine%20C%2003) - 100 / 100   :heavy_check_mark:<br />
+[**C 03**](https://github.com/lbordonal/42-Piscine/tree/main/05-%20C%20Piscine%20C%2003) <br />
+<img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> <br />
 `ft_strcmp` `ft_strncmp` `ft_strcat` `ft_strncat` `ft_strstr` `ft_strlcat` <br />
 
-[**C 04**](https://github.com/lbordonal/42-Piscine/tree/main/06-%20C%20Piscine%20C%2004) - 70 / 100   :heavy_check_mark:<br />
+[**C 04**](https://github.com/lbordonal/42-Piscine/tree/main/06-%20C%20Piscine%20C%2004)  <br />
+<img src="https://img.shields.io/badge/score-70%20%2F%20100-success" /> <br />
 `ft_strlen` `ft_putstr` `ft_putnbr` `ft_atoi` `ft_putnbr_base` `ft_atoi_base` <br />
 
-[**C 05**](https://github.com/lbordonal/42-Piscine/tree/main/07-%20C%20Piscine%20C%2005) - 80 / 100   :heavy_check_mark:<br />
+[**C 05**](https://github.com/lbordonal/42-Piscine/tree/main/07-%20C%20Piscine%20C%2005)  <br />
+<img src="https://img.shields.io/badge/score-80%20%2F%20100-success" /> <br />
 `ft_iterative_factorial` `ft_recursive_factorial` `ft_iterative_power` `ft_recursive_power` `ft_fibonacci` `ft_sqrt` `ft_is_prime` `ft_find_next_prime` `As dez damas` <br />
 
-[**C 06**](https://github.com/lbordonal/42-Piscine/tree/main/08-%20C%20Piscine%20C%2006) - 100 / 100   :heavy_check_mark:<br />
+[**C 06**](https://github.com/lbordonal/42-Piscine/tree/main/08-%20C%20Piscine%20C%2006) <br />
+<img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> <br />
 `ft_print_program_name` `ft_print_params` `ft_rev_params` `ft_sort_params` <br />
 
-[**C 07**](https://github.com/lbordonal/42-Piscine/tree/main/09-%20C%20Piscine%20C%2007) - 60 / 100   :heavy_check_mark:<br />
+[**C 07**](https://github.com/lbordonal/42-Piscine/tree/main/09-%20C%20Piscine%20C%2007)  <br />
+<img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> <br />
 `ft_strdup` `ft_range` `ft_ultimate_range` `ft_strjoin` `ft_convert_base` `ft_split` <br />
 
-[**C 08**](https://github.com/lbordonal/42-Piscine/tree/main/10-%20C%20Piscine%20C%2008) - Not submitted :x:<br />
+[**C 08**](https://github.com/lbordonal/42-Piscine/tree/main/10-%20C%20Piscine%20C%2008) <br />
+<img src="https://img.shields.io/badge/score-not%20submitted-red" /> <br />
 `ft.h` `ft_boolean.h` `ft_abs.h` `ft_point.h` `ft_strs_to_tab` `ft_show_tab` <br /><br />
 
-[**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) - 116 / 100   :heavy_check_mark:<br />
+[**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) - <br />
+<img src="https://img.shields.io/badge/score-116%20%2F%20100-success" /> <br />
 <br /><br />
