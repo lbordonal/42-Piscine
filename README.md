@@ -71,6 +71,6 @@ This repository contains coding developed at 42 Porto Piscine, from 19/09/2022 t
 <img src="https://img.shields.io/badge/score-not%20submitted-red" /> <br />
 `ft.h` `ft_boolean.h` `ft_abs.h` `ft_point.h` `ft_strs_to_tab` `ft_show_tab` <br /><br />
 
-[**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) - <br />
+[**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) <br />
 <img src="https://img.shields.io/badge/score-116%20%2F%20100-success" /> <br />
 <br /><br />
