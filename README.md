@@ -36,7 +36,8 @@ This repository contains coding developed at 42 Porto Piscine, from 19/09/2022 t
 `ft_putchar` `ft_print_alphabet` `ft_print_reverse_alphabet` `ft_print_numbers` `ft_is_negative` `ft_print_comb` `ft_print_comb2` `ft_putnbr` `ft_print_combn` <br />
 
 
-[**C 01**](https://github.com/lbordonal/42-Piscine/tree/main/03-%20C%20Piscine%20C%2001) - 100 / 100   :heavy_check_mark:<br />
+[**C 01**](https://github.com/lbordonal/42-Piscine/tree/main/03-%20C%20Piscine%20C%2001) <br />
+<img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> <br />
 `ft_ft` `ft_ultimate_ft` `ft_swap` `ft_div_mod` `ft_ultimate_div_mod` `ft_putstr` `ft_strlen` `ft_rev_int_tab` `ft_sort_int_tab` <br />
 
 [**C 02**](https://github.com/lbordonal/42-Piscine/tree/main/04-%20C%20Piscine%20C%2002) - 85 / 100   :heavy_check_mark:<br />
