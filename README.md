@@ -6,13 +6,13 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/languages/code-size/lbordonal/42-Piscine" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/lbordonal/42-Piscine" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lbordonal/42-Piscine" />
+	<img src="https://img.shields.io/github/languages/count/lbordonal/42-Piscine" />
+	<img src="https://img.shields.io/github/languages/top/lbordonal/42-Piscine" />
 	<img src="https://img.shields.io/github/last-commit/lbordonal/42-Piscine" />
 </p>
 
 <p align="center">
-This repository contains coding developed at 42 Porto Piscine, from 19/09/2022 to 13/10/2022.
+This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 13/10/2022.
 </p>
 
 ## :notebook: Subjects
