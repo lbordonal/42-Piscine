@@ -27,8 +27,8 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 [**C 06**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/08-%20C%2006%20-%20pt.subject.pdf)<br />
 [**C 07**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/09-%20C%2007%20-%20pt.subject.pdf)<br />
 [**C 08**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/10-%20C%2008%20-%20en.subject.pdf)<br /><br />
-[**Rush 00**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/Rush%2000%20-%20pt_br.subject.pdf)<br />
-<br /><br />
+[**Rush 00**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/Rush%2000%20-%20pt_br.subject.pdf)<br /><br />
+
 
 ## :memo: Exercises
 [**Shell 00**](https://github.com/lbordonal/42-Piscine/tree/main/00-%20C%20Piscine%20Shell%2000) <br />
