@@ -15,6 +15,10 @@
 This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 13/10/2022.
 </p>
 
+<p align="center">
+<img src="https://badge42.vercel.app/api/v2/clacbrcpv01070fkyabnoijyu/stats?cursusId=9&coalitionId=piscine" alt="lbordona's 42 stats" />
+</p>
+
 ## :notebook: Subjects
 [**Shell 00**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/00-%20Shell%2000%20-%20pt.subject.pdf)<br />
 [**Shell 01**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/01-%20Shell%2001%20-%20pt.subject.pdf)<br /><br />
@@ -75,3 +79,16 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 [**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) <br />
 <img src="https://img.shields.io/badge/score-116%20%2F%20100-success" /> <br />
 <br /><br />
+
+## :100: Exams
+**Exam 00** <br />
+<img src="https://img.shields.io/badge/score-64%20%2F%20100-success" /> <br />
+
+**Exam 01** <br />
+<img src="https://img.shields.io/badge/score-48%20%2F%20100-success" /> <br />
+
+**Exam 02** <br />
+<img src="https://img.shields.io/badge/score-70%20%2F%20100-success" /> <br />
+
+**Final Exam** <br />
+<img src="https://img.shields.io/badge/score-54%20%2F%20100-success" /> <br />
