@@ -78,7 +78,7 @@ This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 
 
 [**Rush 00**](https://github.com/lbordonal/42-Piscine/tree/main/Rush%2000/ex00) <br />
 <img src="https://img.shields.io/badge/score-116%20%2F%20100%20%E2%98%85-9cf" /> <br />
-<br /><br />
+`ft_putchar.c` `main.c` `rush00.c` `rush01.c` `rush02.c` `rush03.c` `rush04.c` <br /><br />
 
 ## :100: Exams
 **Exam 00** <br />
