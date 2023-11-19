@@ -1,8 +1,6 @@
-
-
-<h1 align="center">
-	42 Piscine
-</h1>
+<p align="center">
+  <img src="https://github.com/lbordonal/lbordonal/blob/main/.titles/Philosophers42-Piscine.png">
+</p>
 
 <p align="center">
 	<img src="https://img.shields.io/github/languages/code-size/lbordonal/42-Piscine?style=flat-square" />
