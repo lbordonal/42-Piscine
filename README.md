@@ -13,9 +13,6 @@
 This repository contains code developed at 42 Porto Piscine, from 19/09/2022 to 13/10/2022.
 </p>
 
-<p align="center">
-<img src="https://badge42.vercel.app/api/v2/clacbrcpv01070fkyabnoijyu/stats?cursusId=9&coalitionId=piscine" alt="lbordona's 42 stats" />
-</p>
 
 ## :notebook: Subjects
 [**Shell 00**](https://github.com/lbordonal/42-Piscine/blob/main/PDFs/00-%20Shell%2000%20-%20pt.subject.pdf)<br />
